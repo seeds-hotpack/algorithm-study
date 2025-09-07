@@ -4,7 +4,12 @@
 
 **2025.08.05 (화) ~ 2025.09.05 (금) | 총 5주간**  
 **매주 사이클:** 월요일 마감 → 화요일 새 시작
+---
 
+## 현재 티어
+|  진소희  |  이가원  |  박성열  |
+|:---------:|:---------:|:---------:|
+| [![Solved.ac Profile](http://mazassumnida.wtf/api/mini/generate_badge?boj=63wlsthgml)](https://solved.ac/63wlsthgml) | [![Solved.ac Profile](http://mazassumnida.wtf/api/mini/generate_badge?boj=dlrkdnjs02)](https://solved.ac/dlrkdnjs02) | [![Solved.ac Profile](http://mazassumnida.wtf/api/mini/generate_badge?boj=yeoli)](https://solved.ac/yeoli)|
 ---
 
 ## 🎯 개인별 목표
