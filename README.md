@@ -6,7 +6,7 @@
 **매주 사이클:** 월요일 마감 → 화요일 새 시작
 ---
 
-## 현재 티어
+## 👑 현재 티어
 |  진소희  |  이가원  |  박성열  |
 |:---------:|:---------:|:---------:|
 | [![Solved.ac Profile](http://mazassumnida.wtf/api/mini/generate_badge?boj=63wlsthgml)](https://solved.ac/63wlsthgml) | [![Solved.ac Profile](http://mazassumnida.wtf/api/mini/generate_badge?boj=dlrkdnjs02)](https://solved.ac/dlrkdnjs02) | [![Solved.ac Profile](http://mazassumnida.wtf/api/mini/generate_badge?boj=yeoli)](https://solved.ac/yeoli)|
@@ -14,11 +14,11 @@
 
 ## 🎯 개인별 목표
 
-| 이름  | 목표 Tier         |
-|-----|-----------------|
-| 진소희 | **Gold IV**     |
-| 박성열 | **Platinum V**  |
-| 박준하 | **Platinum IV** |
+| 이름  | 목표 Tier         | 달성 여부 |
+|-----|-----------------|-------|
+| 진소희 | **Gold IV**     |미달성|
+| 박성열 | **Platinum V**  |달성✌🏻|
+| 박준하 | **Platinum IV** |미달성|
 
 ---
 
